@@ -1,0 +1,2 @@
+robot_1:robot_2
+-DCATKIN_DEVEL_PREFIX=/home/messbah/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/messbah/catkin_ws/install -G Unix Makefiles

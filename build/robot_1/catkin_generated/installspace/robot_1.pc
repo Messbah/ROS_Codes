@@ -1,0 +1,8 @@
+prefix=/home/messbah/catkin_ws/install
+
+Name: robot_1
+Description: Description of robot_1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

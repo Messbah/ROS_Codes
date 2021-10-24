@@ -1,0 +1,12 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_messbah_virtualbox__37195: http://messbah-VirtualBox:37195/
+    host_messbah_virtualbox__38133: http://messbah-VirtualBox:38133/
+rosversion: '1.15.9
+
+  '
+run_id: 6dc457a2-7c92-11eb-b413-1ff75c237245
+wheel_radius: 3.5
